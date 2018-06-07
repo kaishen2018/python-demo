@@ -1,0 +1,108 @@
+\n ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:23:02  /  731
+\n ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:23:02"} 
+\n ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n ======> End to call NC at 2018-06-07 19:03:02 ============>  \n 
+\n ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:43:02  /  731
+\n ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:43:02"} 
+\n ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n ======> End to call NC at 2018-06-07 19:03:02 ============>  \n 
+\n ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:03:02  /  731
+\n ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:03:02"} 
+\n ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n ======> End to call NC at 2018-06-07 19:03:02 ============>  \n 
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:23:35  /  731
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:23:35"} 
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:03:35 ============>  \n 
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:43:35  /  731
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:43:35"} 
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:03:35 ============>  \n 
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:03:35  /  731
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:03:35"} 
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:03:35 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:04:48 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:24:48  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:24:48"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} \n======> End to call NC at 2018-06-07 19:04:48 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:04:48 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:44:48  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:44:48"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} \n======> End to call NC at 2018-06-07 19:04:48 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:04:48 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:04:48  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:04:48"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} \n======> End to call NC at 2018-06-07 19:04:48 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:05:27 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:25:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:25:27"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:05:27 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:05:27 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:45:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:45:27"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:05:27 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:05:27 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:05:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:05:27"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}} ======> End to call NC at 2018-06-07 19:05:27 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:06:18 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:26:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:26:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ======> End to call NC at 2018-06-07 19:06:18 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:06:18 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:46:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:46:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ======> End to call NC at 2018-06-07 19:06:18 ============>  \n 
+ ======> begin to call NC  at 2018-06-07-19:06:18 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:06:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:06:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ======> End to call NC at 2018-06-07 19:06:18 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:06:40 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:26:40  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:26:40"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ====================================> End to call NC at 2018-06-07 19:06:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:06:41 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:46:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:46:41"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ====================================> End to call NC at 2018-06-07 19:06:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:06:41 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:06:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:06:41"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ ====================================> End to call NC at 2018-06-07 19:06:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:07:18 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:27:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:27:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:07:18 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:07:18 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:47:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:47:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:07:18 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:07:18 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:07:18  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:07:18"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:07:18 ============>  \n 
