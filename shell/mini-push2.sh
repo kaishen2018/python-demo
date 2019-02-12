@@ -15,17 +15,20 @@
 # 10 -> 46
 
 today=`date '+%Y%m%d'`
+# MAC format
 yesterday=`date -v-1d '+%Y%m%d'`
+# centos format
+# yesterday=`date -d "-1 day" '+%Y%m%d'`
 
 # TODO need setup env.
   # DEV
-  ncUrl='http://172.16.98.166:3001/api\notifications/scheduledCsv'
+  #ncUrl='http://172.16.98.166:3001/api/notifications/scheduledCsv'
 
   #UAT
-#  ncUrl='http://172.17.0.110:3001/api\notifications/scheduledCsv'
+  ncUrl='http://172.17.0.110:3001/api/notifications/scheduledCsv'
 
 # PROD
-#  ncUrl='http://172.17.0.150:3001/api\notifications/scheduledCsv'
+#  ncUrl='http://172.17.0.150:3001/api/notifications/scheduledCsv'
 
 
 declare -a files
@@ -47,24 +50,24 @@ prepare() {
 
 # TODO 每天变更下文件名  == 开始==============================
 # TODO 自动准备文件
-# prepare
+ prepare
 
 
 # TODO 手工准备文件
 #files=(
-#"/mini-push/mini-push-template-5-20180606.csv"
-#"/mini-push/mini-push-template-6-20180606.csv"
-#"/mini-push/mini-push-template-7-20180606.csv"
-#"/mini-push/mini-push-template-8-20180606.csv"
-#"/mini-push/mini-push-template-9-20180606.csv"
-#"/mini-push/mini-push-template-10-20180606.csv"
+#"/mini-push/mini-push-5-20180606.csv"
+#"/mini-push/mini-push-6-20180606.csv"
+#"/mini-push/mini-push-7-20180606.csv"
+#"/mini-push/mini-push-8-20180606.csv"
+#"/mini-push/mini-push-9-20180606.csv"
+#"/mini-push/mini-push-10-20180606.csv"
 #)
 
-files=(
-"/home/softtek/sftp/webpower-test-3-cn.csv"
-"/home/softtek/sftp/webpower-test-3-cn.csv"
-"/home/softtek/sftp/webpower-test-3-cn.csv"
-)
+#files=(
+#"/home/softtek/sftp/webpower-test-3-cn.csv"
+#"/home/softtek/sftp/webpower-test-3-cn.csv"
+#"/home/softtek/sftp/webpower-test-3-cn.csv"
+#)
 # TODO 每天变更下文件名  == 结束==============================
 
 # 调用NC API
@@ -95,8 +98,8 @@ callNotify() {
 
 
   echo " ======> response body: " >> $today".txt"
-   curl -X POST --connect-timeout 10 -m 5 --url $ncUrl -H 'content-type: application/json'  -H "x-transaction-id: $tranId" \
-   -d '{"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"'$4'","content":"","isPush":"true","recipientsCsvPath":"'$2'","sendTime":"'"$3"'","ext_opts":{"notifyType":"MINI_PROMOTION"}}'   >>  $today".txt"
+#   curl -X POST --connect-timeout 10 -m 5 --url $ncUrl -H 'content-type: application/json'  -H "x-transaction-id: $tranId" \
+#   -d '{"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"'$4'","content":"","isPush":"true","recipientsCsvPath":"'$2'","sendTime":"'"$3"'","ext_opts":{"notifyType":"MINI_PROMOTION"}}'   >>  $today".txt"
 
 
 
@@ -115,14 +118,21 @@ do
 
  i=`expr $i + 1`
  # 每20分钟推送一次
+ # MAC FORMAT
  m=`expr 20 \* $i`
  min=$m"M"
-
  scheduler=`date -v+$min "+%Y-%m-%d %H:%M:%S"`
 
-# echo ${file:30:1}
+# CENTOS FORMAT
+# m=`expr 20 \* $i`
+# min=$m" minute"
+# scheduler=`date -d "$m" "+%Y-%m-%d %H:%M:%S"`
 
- templateId=${file:30:1}
+ echo "----->>>>"$file
+
+ echo "---ID-->>>>"${file:21:1}
+
+ templateId=${file:21:1}
 
  if [ $templateId == 5 ]
  then
