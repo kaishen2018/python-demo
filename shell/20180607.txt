@@ -1,0 +1,450 @@
+ =========================================> begin to call NC  at 2018-06-07-19:15:41 ============>\n
+ ======> 方法参数： 1  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:35:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:35:41"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:15:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:15:41 ============>\n
+ ======> 方法参数： 2  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 19:55:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 19:55:41"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:15:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:15:41 ============>\n
+ ======> 方法参数： 3  /  /home/softtek/sftp/webpower-test-3-cn.csv  /  2018-06-07 20:15:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/home/softtek/sftp/webpower-test-3-cn.csv","sendTime":"2018-06-07 20:15:41"} \n
+ ======> response body: 
+{"error":{"statusCode":404,"name":"Error","message":"Cannot POST /api\\notifications/scheduledCsv"}}\n
+ =========================================> End to call NC at 2018-06-07 19:15:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 19:52:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 19:52:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:12:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:12:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:32:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:32:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 20:52:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 20:52:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:12:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:12:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:32:41 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:32:41  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:32:41"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:32:41 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:26 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 19:53:26  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 19:53:26"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:26 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:27 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:13:26  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:13:26"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:27 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:27 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:33:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:33:27"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:27 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:27 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 20:53:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 20:53:27"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:27 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:27 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:13:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:13:27"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:27 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:27 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:33:27  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:33:27"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:27 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 19:53:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 19:53:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:13:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:13:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:33:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:33:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 20:53:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 20:53:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:13:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:13:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:30 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:33:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:33:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 19:53:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 19:53:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:13:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:13:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:33:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:33:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 20:53:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 20:53:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:13:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:13:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:33:49 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:33:49  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:33:49"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:33:49 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:10:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:10:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:30:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:30:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:50:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:50:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:10:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:10:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:30:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:30:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:50:32 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:50:32  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:50:32"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:50:32 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:11:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:11:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:31:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:31:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:51:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:51:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:11:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:11:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:31:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:31:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:04 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:51:04  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:51:04"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:04 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:11:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:11:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:31:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:31:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:51:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:51:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:11:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:11:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:31:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:31:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:47 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:51:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:51:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:11:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:11:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:31:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:31:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:51:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:51:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:11:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:11:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:31:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:31:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:51:56 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:51:56  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:51:56"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:51:56 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:12:47  /  40 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"40","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:12:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:32:47  /  41 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"41","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:32:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:52:47  /  42 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"42","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:52:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:12:47  /  43 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"43","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:12:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:32:47  /  44 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"44","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:32:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:52:47 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:52:47  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:52:47"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:52:47 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:13:30  /  40 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"40","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:13:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:33:30  /  41 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"41","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:33:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:53:30  /  42 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"42","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:53:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:13:30  /  43 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"43","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:13:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:33:30  /  44 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"44","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:33:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:30 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:53:30  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:53:30"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:30 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:13:54  /  40 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"40","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:13:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:33:54  /  41 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"41","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:33:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:53:54  /  42 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"42","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:53:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:13:54  /  43 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"43","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:13:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:33:54  /  44 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"44","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:33:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:53:54 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:53:54  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:53:54"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:53:54 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 1  /  /mini-push/mini-push-5-20180606.csv  /  2018-06-07 20:14:00  /  40 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"40","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-5-20180606.csv","sendTime":"2018-06-07 20:14:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 2  /  /mini-push/mini-push-6-20180606.csv  /  2018-06-07 20:34:00  /  41 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"41","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-6-20180606.csv","sendTime":"2018-06-07 20:34:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 3  /  /mini-push/mini-push-7-20180606.csv  /  2018-06-07 20:54:00  /  42 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"42","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-7-20180606.csv","sendTime":"2018-06-07 20:54:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 4  /  /mini-push/mini-push-8-20180606.csv  /  2018-06-07 21:14:00  /  43 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"43","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-8-20180606.csv","sendTime":"2018-06-07 21:14:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 5  /  /mini-push/mini-push-9-20180606.csv  /  2018-06-07 21:34:00  /  44 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"44","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-9-20180606.csv","sendTime":"2018-06-07 21:34:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
+ =========================================> begin to call NC  at 2018-06-07-19:54:00 ============>\n
+ ======> 方法参数： 6  /  /mini-push/mini-push-10-20180606.csv  /  2018-06-07 21:54:00  /  731 \n
+ ======> request body: {"appId":"80e22f3bb1340514daca7265280c69f0","token":"starbucks20170221012740","templateId":"731","content":"","isPush":"true","ext_opts":{"notifyType":"MINI_PROMOTION"},"recipientsCsvPath":"/mini-push/mini-push-10-20180606.csv","sendTime":"2018-06-07 21:54:00"} \n
+ ======> response body: 
+\n
+ =========================================> End to call NC at 2018-06-07 19:54:00 ============>  \n 
